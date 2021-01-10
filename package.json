@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "TypeScript course material.",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {
+    "run:variables": "ts-node ./src/variables.ts"
+  },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
   "devDependencies": {
