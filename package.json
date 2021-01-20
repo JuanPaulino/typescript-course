@@ -13,7 +13,8 @@
     "exec:interface": "ts-node ./src/interface.ts",
     "exec:literal-types": "ts-node ./src/literal-types.ts",
     "exec:inheritance": "ts-node ./src/inheritance.ts",
-    "exec:polymorphism": "ts-node ./src/polymorphism.ts"
+    "exec:polymorphism": "ts-node ./src/polymorphism.ts",
+    "exec:scope": "ts-node ./src/scope.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
