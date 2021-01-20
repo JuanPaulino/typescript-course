@@ -11,7 +11,8 @@
     "exec:loops": "ts-node ./src/loops.ts",
     "exec:class": "ts-node ./src/class.ts",
     "exec:interface": "ts-node ./src/interface.ts",
-    "exec:literal-types": "ts-node ./src/literal-types.ts"
+    "exec:literal-types": "ts-node ./src/literal-types.ts",
+    "exec:inheritance": "ts-node ./src/inheritance.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
