@@ -10,6 +10,7 @@
     "exec:conditionals": "ts-node ./src/conditionals.ts",
     "exec:loops": "ts-node ./src/loops.ts",
     "exec:class": "ts-node ./src/class.ts",
+    "exec:interface": "ts-node ./src/interface.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
