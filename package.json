@@ -4,8 +4,9 @@
   "description": "TypeScript course material.",
   "main": "index.js",
   "scripts": {
-    "run:variables": "ts-node ./src/variables.ts",
-    "run:basic-types": "ts-node ./src/basic-types.ts"
+    "exec:variables": "ts-node ./src/variables.ts",
+    "exec:basic-types": "ts-node ./src/basic-types.ts",
+    "exec:functions": "ts-node ./src/functions.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
