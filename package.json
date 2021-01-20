@@ -14,7 +14,8 @@
     "exec:literal-types": "ts-node ./src/literal-types.ts",
     "exec:inheritance": "ts-node ./src/inheritance.ts",
     "exec:polymorphism": "ts-node ./src/polymorphism.ts",
-    "exec:scope": "ts-node ./src/scope.ts"
+    "exec:scope": "ts-node ./src/scope.ts",
+    "exec:hoisting": "ts-node ./src/hoisting.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
