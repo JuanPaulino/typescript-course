@@ -6,7 +6,8 @@
   "scripts": {
     "exec:variables": "ts-node ./src/variables.ts",
     "exec:basic-types": "ts-node ./src/basic-types.ts",
-    "exec:functions": "ts-node ./src/functions.ts"
+    "exec:functions": "ts-node ./src/functions.ts",
+    "exec:conditionals": "ts-node ./src/conditionals.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
