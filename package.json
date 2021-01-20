@@ -6,17 +6,17 @@
   "scripts": {
     "exec:variables": "ts-node ./src/variables.ts",
     "exec:basic-types": "ts-node ./src/basic-types.ts",
-    "exec:functions": "ts-node ./src/functions.ts",
+    "exec:literal-types": "ts-node ./src/literal-types.ts",
+    "exec:maths-operations": "ts-node ./src/maths-operations.ts",
     "exec:conditionals": "ts-node ./src/conditionals.ts",
     "exec:loops": "ts-node ./src/loops.ts",
+    "exec:functions": "ts-node ./src/functions.ts",
     "exec:class": "ts-node ./src/class.ts",
-    "exec:interface": "ts-node ./src/interface.ts",
-    "exec:literal-types": "ts-node ./src/literal-types.ts",
     "exec:inheritance": "ts-node ./src/inheritance.ts",
     "exec:polymorphism": "ts-node ./src/polymorphism.ts",
     "exec:scope": "ts-node ./src/scope.ts",
     "exec:hoisting": "ts-node ./src/hoisting.ts",
-    "exec:maths-operations": "ts-node ./src/maths-operations.ts"
+    "exec:interface": "ts-node ./src/interface.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
