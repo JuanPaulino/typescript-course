@@ -8,7 +8,8 @@
     "exec:basic-types": "ts-node ./src/basic-types.ts",
     "exec:functions": "ts-node ./src/functions.ts",
     "exec:conditionals": "ts-node ./src/conditionals.ts",
-    "exec:loops": "ts-node ./src/loops.ts"
+    "exec:loops": "ts-node ./src/loops.ts",
+    "exec:class": "ts-node ./src/class.ts",
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
