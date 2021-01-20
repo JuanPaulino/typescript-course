@@ -15,7 +15,8 @@
     "exec:inheritance": "ts-node ./src/inheritance.ts",
     "exec:polymorphism": "ts-node ./src/polymorphism.ts",
     "exec:scope": "ts-node ./src/scope.ts",
-    "exec:hoisting": "ts-node ./src/hoisting.ts"
+    "exec:hoisting": "ts-node ./src/hoisting.ts",
+    "exec:maths-operations": "ts-node ./src/maths-operations.ts"
   },
   "author": "juan.paulino.veras@gmail.com",
   "license": "ISC",
