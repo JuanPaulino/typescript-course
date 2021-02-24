@@ -1,9 +1,9 @@
 module Variables {
-  var userName = 'Juan Paulino';
-  let address = 'Calle Federico, 6, 2034, Madrid';
-  const NUMBER_OF_SUBSCRIBERS = 1000;
+  let languageName = 'TypeScript';
+  console.log(languageName);
+  languageName = 'JavaScript'
+  console.log(languageName);
 
-  console.log(userName);
-  console.log(address);
-  console.log(NUMBER_OF_SUBSCRIBERS);
+  const Address = 'Calle Federico, 6, 2034, Madrid';
+  console.log(Address);
 }
